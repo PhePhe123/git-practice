@@ -3,7 +3,7 @@ def max_value(numbers):
         in the list.
     """
     largest_number = max(numbers)
-    return numbers
+    return largest_number
 
 
 
