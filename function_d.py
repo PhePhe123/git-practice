@@ -6,9 +6,6 @@ def max_value(numbers):
     return largest_number
 
 
-    for val in numbers:
-        if val > highest_value:
-            highest_value = val
         
 
 if __name__ == "__main__":
